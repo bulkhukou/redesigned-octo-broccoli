@@ -1,9 +1,37 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Страница — 1" id="5N9X3Y17L_XoEcSVhi0d">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wK_ba-2Pib_sXPPsbPto-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="305" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-3" value="&lt;div&gt;Нужна бумага А4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wK_ba-2Pib_sXPPsbPto-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-6" value="Решить как купить бумагу" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-8" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="370" y="245" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wK_ba-2Pib_sXPPsbPto-9" value="Онлайн или о&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;флайн?&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
