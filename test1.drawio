@@ -31,7 +31,7 @@
         <mxCell id="VYX5BPDOMlhhGxLI05wY-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VYX5BPDOMlhhGxLI05wY-4">
           <mxGeometry x="45" y="70" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="VYX5BPDOMlhhGxLI05wY-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Вызов метода получения данных &quot;Курс валют&quot; REST API GET&lt;br&gt;&amp;nbsp;api/currency?date=YYYY-MM-DD&amp;amp;code=XXX&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="VYX5BPDOMlhhGxLI05wY-6" parent="1" source="VYX5BPDOMlhhGxLI05wY-4">
+        <mxCell id="VYX5BPDOMlhhGxLI05wY-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Вызов метода получения данных &quot;Курс валют&quot; REST API GET&lt;br&gt;&amp;nbsp;/api/currency?date=YYYY-MM-DD&amp;amp;code=XXX&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="VYX5BPDOMlhhGxLI05wY-6" parent="1" source="VYX5BPDOMlhhGxLI05wY-4">
           <mxGeometry x="0.0005" relative="1" as="geometry">
             <mxPoint x="245" y="105" as="sourcePoint" />
             <mxPoint as="offset" />
